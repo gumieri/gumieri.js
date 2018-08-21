@@ -1,3 +1,3 @@
-# marcos.js
+# gumieri.js
 
-`npm i -g marcos`
+`npm i -g gumieri`

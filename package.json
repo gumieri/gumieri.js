@@ -1,27 +1,28 @@
 {
-  "name": "marcos",
-  "version": "1.1.0",
+  "name": "gumieri",
+  "version": "1.2.0",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "postinstall": "node bin.js"
+    "postinstall": "node ./gumieri"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eptaccio/marcos.js.git"
+    "url": "git+https://github.com/gumieri/gumieri.js.git"
   },
   "keywords": [
-    "marcos",
-    "eptaccio",
-    "jsdev"
+    "rafael",
+    "gumieri",
+    "card",
+    "dev"
   ],
-  "author": "@eptaccio",
+  "author": "Rafael Gumieri",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/eptaccio/marcos.js/issues"
+    "url": "https://github.com/gumieri/gumieri.js/issues"
   },
   "bin": {
-    "marcos": "bin.js"
+    "gumieri": "gumieri"
   },
-  "homepage": "https://github.com/eptaccio/marcos.js#readme",
+  "homepage": "https://github.com/gumieri/gumieri.js#readme",
   "dependencies": {}
 }

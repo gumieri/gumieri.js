@@ -1,0 +1,9 @@
+#!/usr/bin/env node
+
+const card = require("./card.json")
+
+const identation = '\t'
+const output = JSON.stringify(card, null, identation)
+
+const eof = '\n'
+process.stdout.write(`${output}${eof}`)
